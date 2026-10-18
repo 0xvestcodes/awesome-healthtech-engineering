@@ -45,6 +45,7 @@ Kuratierte Ressourcenliste für klinische Interoperabilität, Systemarchitektur 
 - [Medplum](https://github.com/medplum/medplum) — FHIR CDR mit React SDK, Auth und gehosteter Option
 - [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) — Cloud-native FHIR Server mit Bulk-Data-Support (IBM-originiert)
 - [Aidbox](https://github.com/Aidbox) — FHIR Server + CDR von Health Samurai (PostgreSQL, Subscriptions)
+- [Ovok](https://www.ovok.com/) — FHIR-R4-Backend und Entwicklerplattform für Connected-Health- und Remote-Patient-Monitoring-Anwendungen
 - [b.well FHIR Server](https://github.com/b-well-io/fhir-server) — MongoDB-basierter FHIR Server
 - [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) — .NET SDK (Firely)
 - [SUSHI](https://github.com/FHIR/sushi) — FHIR Shorthand → StructureDefinition Compiler
