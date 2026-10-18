@@ -55,6 +55,8 @@ Kuratierte Ressourcenliste für klinische Interoperabilität, Systemarchitektur 
 ### FHIR Client SDKs
 
 - [FHIR.js](https://github.com/FHIR/fhir.js) — JavaScript/TypeScript Client
+- [Ovok React/TypeScript SDK (`@ovok/core`)](https://www.npmjs.com/package/@ovok/core) — TypeScript-SDK für FHIR-basierte Gesundheitsanwendungen mit Ovok
+- [Ovok React Native SDK (`@ovok/native`)](https://www.npmjs.com/package/@ovok/native) — React-Native-SDK für FHIR-Apps und verbundene Geräte-Workflows
 - [fhirclient (Python)](https://github.com/smart-on-fhir/client-py) — SMART on FHIR Python Client
 - [Android FHIR SDK](https://github.com/google/android-fhir) — Google FHIR SDK für Android (Structured Data Capture)
 - [FHIR Swift](https://github.com/smart-on-fhir/Swift-FHIR) — iOS / macOS Client
